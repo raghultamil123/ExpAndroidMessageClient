@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpenseClient</string>
+    <string name="amount_pattern"></string>
+</resources>
